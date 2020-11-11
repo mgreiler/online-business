@@ -12,3 +12,4 @@ Interesting stories, and how to's on how to create an online business.
 
 ## Streaming
 -  If you want to include recorded music in your stream, use a fully licensed alternative like Soundtrack by Twitch, or other rights cleared music libraries such as Soundstripe, Monstercat Gold, Chillhop, Epidemic Sound, and NCS.
+- [Tweet mentioning free music alternatives for Twitch](https://twitter.com/TaelurAlexis/status/1326610751986020352?s=20)
