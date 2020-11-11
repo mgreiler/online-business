@@ -8,3 +8,7 @@ Interesting stories, and how to's on how to create an online business.
 
 ## Newsletter
 - [Newsletter = $22k Monthly Course Revenue](https://contrarianthinking.substack.com/p/newsletter-22k-monthly-course-revenue?fbclid=IwAR2Jb0ii0_zmzs1vok0oAP1t-30WCHb_zjxgbf5m8mfR2iSq6dysjfXKcfg)
+
+
+## Streaming
+-  If you want to include recorded music in your stream, use a fully licensed alternative like Soundtrack by Twitch, or other rights cleared music libraries such as Soundstripe, Monstercat Gold, Chillhop, Epidemic Sound, and NCS.
